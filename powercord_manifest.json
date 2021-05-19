@@ -1,0 +1,8 @@
+{
+    "name": "BlurpleRecolore",
+    "description": "Replaces Discord's native Blurple and Boost-Pink with your own Color.",
+    "version": "1.0.0",
+    "author": "mwittrien",
+    "theme": "BlurpleRecolor.theme.css",
+    "license": "MIT"
+}
